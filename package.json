@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/koval-andrey/nodeJS-HW-01#readme",
   "devDependencies": {
+    "commander": "^8.0.0",
     "eslint": "^7.29.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.23.4",
