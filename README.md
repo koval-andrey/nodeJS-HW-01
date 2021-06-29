@@ -10,4 +10,4 @@ node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-2
 # Удаляем контакт
 node index.js --action remove --id=3
 Общая ссылка на скриншот:
-ibb.co/yNykyWG
+https://ibb.co/yNykyWG
